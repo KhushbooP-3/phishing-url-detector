@@ -27,7 +27,7 @@ st.set_page_config(
 st.markdown("""
 <style>
 .result-phishing {
-    background: #7f0000;
+    background: #7f0001;
     border-radius: 12px; padding: 24px 28px;
     color: white; text-align: center;
 }
